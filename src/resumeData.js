@@ -2,13 +2,13 @@ let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Giovanni Peres",
     "role": "Full-Stack Developer and Software Engineer ",
-    "linkedinId":"Your LinkedIn Id",
+    "linkedinId": " Giovanni Peres",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I am a dedicated full-stack engineer who is constantly learning and becoming better.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/giovanni-peres-ab5720179/",
           "className":"fa fa-linkedin"
         },
         {
@@ -18,46 +18,46 @@ let resumeData = {
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"https://twitter.com/GioPeres5",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am currently a final year student at The New Jersey Institute of Technology. I am pursuing an education to be A Full Stack Web Developer, currently diving deeper into web development and accesability. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"Pennsylvania, USA",
-    "website":"https://rbhatia46.github.io",
+    "website":"https://gioperes.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"The New Jersey Institute Of Technology",
+        "specialization":"Software Engineering",
+        "MonthOfPassing":"January",
+        "YearOfPassing":"2023",
+        "Achievements":"Full-Stack Development and Sofware Engineering"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
+        "UniversityName":"East-Stroudsburg University",
+        "specialization":"Computer Science",
+        "MonthOfPassing":"June",
         "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"Computer Science and General education"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Pennsylvania Department of Transportation",
+        "specialization":"Driver and eqiupment operator",
+        "MonthOfLeaving":"October",
+        "YearOfLeaving":"2020",
+        "Achievements":""
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Abeloff Nissan",
+        "specialization":"Car Salesman",
+        "MonthOfLeaving":"December",
+        "YearOfLeaving":"2019",
+        "Achievements":""
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Some Skills:",
     "skills":[
       {
         "skillname":"HTML5"
@@ -93,12 +93,12 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"A very fast learner!",
+        "name":"Professor Green"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"An extremly hard worker who like to be the best at what he does",
+        "name":"Previous Boss"
       }
     ]
   }
