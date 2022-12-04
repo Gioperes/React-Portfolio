@@ -2,6 +2,8 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.17.0" },
   "dependencies": {
     "heroku": "^7.67.1",
     "react": "^16.6.0",
