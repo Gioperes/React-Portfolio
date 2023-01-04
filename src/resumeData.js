@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Giovanni Peres",
-    "role": "Full-Stack Developer and Software Engineer ",
+    "role": "Full-Stack Developer and Software Engineer",
     "linkedinId": " Giovanni Peres",
     "skypeid": "Your skypeid",
     "roleDescription": "I am a dedicated full-stack engineer who is constantly learning and becoming better.",
@@ -73,17 +73,17 @@ let resumeData = {
       {
         "name":"project1",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":""
       },
       {
         "name":"project2",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "imgurl":"/images/Milestone 2.jpeg"
       },
       {
         "name":"project3",
         "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"/images/porsche trivia.jpeg"
       },
       {
         "name":"project4",
